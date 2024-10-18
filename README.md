@@ -1,5 +1,3 @@
-Here's the updated `README.md` with the revised categories for the Free E-commerce Products API:
-
 ```md
 # Free E-commerce Products API
 

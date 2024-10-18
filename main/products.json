@@ -1,7 +1,7 @@
 [
   {
     "id": "1",
-    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/moisturizer.jpg",
+    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/products/moisturizer.jpg",
     "name": "Hydrating Facial Moisturizer",
     "rating": {
       "stars": 4.7,
@@ -19,7 +19,7 @@
   },
   {
     "id": "2",
-    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/shampoo.jpg",
+    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/products/shampoo.jpg",
     "name": "Anti-Dandruff Shampoo",
     "rating": {
       "stars": 4.5,
@@ -37,7 +37,7 @@
   },
   {
     "id": "3",
-    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/foundation.jpg",
+    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/products/foundation.jpg",
     "name": "Matte Liquid Foundation",
     "rating": {
       "stars": 4.6,
@@ -55,7 +55,7 @@
   },
   {
     "id": "4",
-    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/perfume.jpg",
+    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/products/perfume.jpg",
     "name": "Eau de Parfum - Floral Scent",
     "rating": {
       "stars": 4.8,
@@ -73,7 +73,7 @@
   },
   {
     "id": "5",
-    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/shaving-kit.jpg",
+    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/products/shaving-kit.jpg",
     "name": "Men's Shaving Kit",
     "rating": {
       "stars": 4.4,
@@ -91,7 +91,7 @@
   },
   {
     "id": "6",
-    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/body-wash.jpg",
+    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/products/body-wash.jpg",
     "name": "Nourishing Body Wash",
     "rating": {
       "stars": 4.7,
@@ -109,7 +109,7 @@
   },
   {
     "id": "7",
-    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/nail-polish.jpg",
+    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/products/nail-polish.jpg",
     "name": "Glossy Nail Polish",
     "rating": {
       "stars": 4.5,
@@ -127,7 +127,7 @@
   },
   {
     "id": "8",
-    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/conditioner.jpg",
+    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/products/conditioner.jpg",
     "name": "Moisturizing Conditioner",
     "rating": {
       "stars": 4.6,
@@ -145,7 +145,7 @@
   },
   {
     "id": "9",
-    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/razor.jpg",
+    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/products/razor.jpg",
     "name": "Triple Blade Razor",
     "rating": {
       "stars": 4.3,
@@ -163,7 +163,7 @@
   },
   {
     "id": "10",
-    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/vitamin-supplement.jpg",
+    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/products/vitamin-supplement.jpg",
     "name": "Vitamin C Supplement",
     "rating": {
       "stars": 4.7,
@@ -181,7 +181,7 @@
   },
   {
     "id": "11",
-    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/wireless-headphones.jpg",
+    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/products/wireless-headphones.jpg",
     "name": "Wireless Bluetooth Headphones",
     "rating": {
       "stars": 4.7,
@@ -199,7 +199,7 @@
   },
   {
     "id": "12",
-    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/smartphone.jpg",
+    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/products/smartphone.jpg",
     "name": "Smartphone - 128GB",
     "rating": {
       "stars": 4.6,
@@ -216,7 +216,7 @@
   },
   {
     "id": "13",
-    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/4k-tv.jpg",
+    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/products/4k-tv.jpg",
     "name": "55-Inch 4K Ultra HD TV",
     "rating": {
       "stars": 4.8,
@@ -234,7 +234,7 @@
   },
   {
     "id": "14",
-    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/laptop.jpg",
+    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/products/laptop.jpg",
     "name": "Gaming Laptop - 16GB RAM, 512GB SSD",
     "rating": {
       "stars": 4.9,
@@ -252,7 +252,7 @@
   },
   {
     "id": "15",
-    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/smartwatch.jpg",
+    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/products/smartwatch.jpg",
     "name": "Smartwatch - Fitness Tracker",
     "rating": {
       "stars": 4.5,
@@ -270,7 +270,7 @@
   },
   {
     "id": "16",
-    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/tablet.jpg",
+    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/products/tablet.jpg",
     "name": "10.1-Inch Android Tablet",
     "rating": {
       "stars": 4.3,
@@ -288,7 +288,7 @@
   },
   {
     "id": "17",
-    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/bluetooth-speaker.jpg",
+    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/products/bluetooth-speaker.jpg",
     "name": "Portable Bluetooth Speaker",
     "rating": {
       "stars": 4.7,
@@ -306,7 +306,7 @@
   },
   {
     "id": "18",
-    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/dslr-camera.jpg",
+    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/products/dslr-camera.jpg",
     "name": "DSLR Camera - 24MP",
     "rating": {
       "stars": 4.8,
@@ -324,7 +324,7 @@
   },
   {
     "id": "19",
-    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/usb-drive.jpg",
+    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/products/usb-drive.jpg",
     "name": "USB Drive - 64GB",
     "rating": {
       "stars": 4.2,
@@ -342,7 +342,7 @@
   },
   {
     "id": "20",
-    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/action-camera.jpg",
+    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/products/action-camera.jpg",
     "name": "4K Action Camera",
     "rating": {
       "stars": 4.6,
@@ -360,7 +360,7 @@
   },
   {
     "id": "21",
-    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/denim-jacket.jpg",
+    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/products/denim-jacket.jpg",
     "name": "Men's Denim Jacket",
     "rating": {
       "stars": 4.5,
@@ -378,7 +378,7 @@
   },
   {
     "id": "22",
-    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/maxi-dress.jpg",
+    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/products/maxi-dress.jpg",
     "name": "Women's Floral Maxi Dress",
     "rating": {
       "stars": 4.8,
@@ -396,7 +396,7 @@
   },
   {
     "id": "23",
-    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/sneakers.jpg",
+    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/products/sneakers.jpg",
     "name": "Unisex Casual Sneakers",
     "rating": {
       "stars": 4.7,
@@ -414,7 +414,7 @@
   },
   {
     "id": "24",
-    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/leather-bag.jpg",
+    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/products/leather-bag.jpg",
     "name": "Leather Tote Bag",
     "rating": {
       "stars": 4.6,
@@ -432,7 +432,7 @@
   },
   {
     "id": "25",
-    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/sunglasses.jpg",
+    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/products/sunglasses.jpg",
     "name": "Polarized Sunglasses",
     "rating": {
       "stars": 4.4,
@@ -450,7 +450,7 @@
   },
   {
     "id": "26",
-    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/formal-shirt.jpg",
+    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/products/formal-shirt.jpg",
     "name": "Men's Formal Shirt",
     "rating": {
       "stars": 4.3,
@@ -468,7 +468,7 @@
   },
   {
     "id": "27",
-    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/heels.jpg",
+    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/products/heels.jpg",
     "name": "Women's High Heels",
     "rating": {
       "stars": 4.6,
@@ -486,7 +486,7 @@
   },
   {
     "id": "28",
-    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/t-shirt.jpg",
+    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/products/t-shirt.jpg",
     "name": "Graphic Print T-Shirt",
     "rating": {
       "stars": 4.5,
@@ -504,7 +504,7 @@
   },
   {
     "id": "29",
-    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/handbag.jpg",
+    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/products/handbag.jpg",
     "name": "Women's Designer Handbag",
     "rating": {
       "stars": 4.9,
@@ -522,7 +522,7 @@
   },
   {
     "id": "30",
-    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/slippers.jpg",
+    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/products/slippers.jpg",
     "name": "Comfortable Flip-Flops",
     "rating": {
       "stars": 4.2,
@@ -540,7 +540,7 @@
   },
   {
     "id": "31",
-    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/sofa.jpg",
+    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/products/sofa.jpg",
     "name": "Modern Leather Sofa",
     "rating": {
       "stars": 4.8,
@@ -558,7 +558,7 @@
   },
   {
     "id": "32",
-    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/refrigerator.jpg",
+    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/products/refrigerator.jpg",
     "name": "Stainless Steel Refrigerator",
     "rating": {
       "stars": 4.6,
@@ -576,7 +576,7 @@
   },
   {
     "id": "33",
-    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/vacuum-cleaner.jpg",
+    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/products/vacuum-cleaner.jpg",
     "name": "Cordless Vacuum Cleaner",
     "rating": {
       "stars": 4.4,
@@ -594,7 +594,7 @@
   },
   {
     "id": "34",
-    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/cookware.jpg",
+    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/products/cookware.jpg",
     "name": "Non-Stick Cookware Set",
     "rating": {
       "stars": 4.7,
@@ -612,7 +612,7 @@
   },
   {
     "id": "35",
-    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/dinnerware.jpg",
+    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/products/dinnerware.jpg",
     "name": "Porcelain Dinnerware Set",
     "rating": {
       "stars": 4.9,
@@ -630,7 +630,7 @@
   },
   {
     "id": "36",
-    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/mattress.jpg",
+    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/products/mattress.jpg",
     "name": "Memory Foam Mattress",
     "rating": {
       "stars": 4.8,
@@ -648,7 +648,7 @@
   },
   {
     "id": "37",
-    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/table-lamp.jpg",
+    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/products/table-lamp.jpg",
     "name": "Contemporary Table Lamp",
     "rating": {
       "stars": 4.5,
@@ -666,7 +666,7 @@
   },
   {
     "id": "38",
-    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/rug.jpg",
+    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/products/rug.jpg",
     "name": "Hand-Woven Area Rug",
     "rating": {
       "stars": 4.6,
@@ -684,7 +684,7 @@
   },
   {
     "id": "39",
-    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/storage-boxes.jpg",
+    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/products/storage-boxes.jpg",
     "name": "Plastic Storage Boxes - Set of 4",
     "rating": {
       "stars": 4.3,
@@ -702,7 +702,7 @@
   },
   {
     "id": "40",
-    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/cleaning-supplies.jpg",
+    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/products/cleaning-supplies.jpg",
     "name": "Eco-Friendly Cleaning Supplies Kit",
     "rating": {
       "stars": 4.8,
@@ -716,6 +716,186 @@
       "eco-friendly",
       "home",
       "cleaning kit"
+    ]
+  },
+  {
+    "id": "41",
+    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/products/treadmill.jpg",
+    "name": "Foldable Electric Treadmill",
+    "rating": {
+      "stars": 4.7,
+      "count": 320
+    },
+    "priceCents": 350000,
+    "category": "Health & Fitness",
+    "subCategory": "Fitness Equipment",
+    "keywords": [
+      "treadmill",
+      "fitness",
+      "exercise",
+      "home gym"
+    ]
+  },
+  {
+    "id": "42",
+    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/products/dumbbells.jpg",
+    "name": "Adjustable Dumbbell Set - 20kg",
+    "rating": {
+      "stars": 4.5,
+      "count": 260
+    },
+    "priceCents": 60000,
+    "category": "Health & Fitness",
+    "subCategory": "Fitness Equipment",
+    "keywords": [
+      "dumbbells",
+      "weights",
+      "fitness",
+      "strength training"
+    ]
+  },
+  {
+    "id": "43",
+    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/products/protein-powder.jpg",
+    "name": "Whey Protein Powder - 2kg",
+    "rating": {
+      "stars": 4.6,
+      "count": 180
+    },
+    "priceCents": 35000,
+    "category": "Health & Fitness",
+    "subCategory": "Sports Nutrition",
+    "keywords": [
+      "protein",
+      "nutrition",
+      "supplement",
+      "sports"
+    ]
+  },
+  {
+    "id": "44",
+    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/products/blood-pressure-monitor.jpg",
+    "name": "Digital Blood Pressure Monitor",
+    "rating": {
+      "stars": 4.8,
+      "count": 210
+    },
+    "priceCents": 22000,
+    "category": "Health & Fitness",
+    "subCategory": "Health Monitors",
+    "keywords": [
+      "blood pressure",
+      "monitor",
+      "health",
+      "medical"
+    ]
+  },
+  {
+    "id": "45",
+    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/products/first-aid-kit.jpg",
+    "name": "Compact First Aid Kit",
+    "rating": {
+      "stars": 4.9,
+      "count": 150
+    },
+    "priceCents": 12000,
+    "category": "Health & Fitness",
+    "subCategory": "First Aid",
+    "keywords": [
+      "first aid",
+      "kit",
+      "medical",
+      "emergency"
+    ]
+  },
+  {
+    "id": "46",
+    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/products/hand-sanitizer.jpg",
+    "name": "Alcohol-Based Hand Sanitizer - 500ml",
+    "rating": {
+      "stars": 4.5,
+      "count": 90
+    },
+    "priceCents": 800,
+    "category": "Health & Fitness",
+    "subCategory": "Personal Health",
+    "keywords": [
+      "hand sanitizer",
+      "personal health",
+      "hygiene",
+      "sanitizer"
+    ]
+  },
+  {
+    "id": "47",
+    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/products/gloves.jpg",
+    "name": "Workout Gloves - Pair",
+    "rating": {
+      "stars": 4.4,
+      "count": 100
+    },
+    "priceCents": 3000,
+    "category": "Health & Fitness",
+    "subCategory": "Sports Gear & Accessories",
+    "keywords": [
+      "gloves",
+      "workout",
+      "sports",
+      "fitness"
+    ]
+  },
+  {
+    "id": "48",
+    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/products/thermometer.jpg",
+    "name": "Infrared Digital Thermometer",
+    "rating": {
+      "stars": 4.7,
+      "count": 120
+    },
+    "priceCents": 15000,
+    "category": "Health & Fitness",
+    "subCategory": "Health Monitors",
+    "keywords": [
+      "thermometer",
+      "digital",
+      "health",
+      "infrared"
+    ]
+  },
+  {
+    "id": "49",
+    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/products/yoga-mat.jpg",
+    "name": "Non-Slip Yoga Mat",
+    "rating": {
+      "stars": 4.6,
+      "count": 200
+    },
+    "priceCents": 5000,
+    "category": "Health & Fitness",
+    "subCategory": "Yoga & Meditation Supplies",
+    "keywords": [
+      "yoga mat",
+      "fitness",
+      "yoga",
+      "exercise"
+    ]
+  },
+  {
+    "id": "50",
+    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/products/knee-pads.jpg",
+    "name": "Adjustable Knee Pads",
+    "rating": {
+      "stars": 4.3,
+      "count": 70
+    },
+    "priceCents": 4000,
+    "category": "Health & Fitness",
+    "subCategory": "Sports Gear & Accessories",
+    "keywords": [
+      "knee pads",
+      "sports",
+      "gear",
+      "fitness"
     ]
   }
 ]

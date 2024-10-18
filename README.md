@@ -1,4 +1,3 @@
-```md
 # Free E-commerce Products API
 
 Welcome to the **Free E-commerce Products API**! This API provides a collection of sample e-commerce product data, categorized into different product groups. You can use this data for your projects, testing, or prototyping.
@@ -86,4 +85,4 @@ You can filter the results using JavaScript `filter()` as shown above, targeting
 ## Enjoy!
 
 Feel free to use this API for testing, prototyping, or personal projects. It will continue to be updated with more categories, products, and features over time. Enjoy and share your feedback!
-```
+

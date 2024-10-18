@@ -58,16 +58,7 @@ Welcome to the **Free E-commerce Products API**! This API provides a collection 
         "sports",
         "apparel"
       ]
-    },
-    {
-      "id": "15b6fc6f-327a-4ec4-896f-486349e85a3d",
-      "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/clothe_brands/img/Cargo_Joggers_(1).jpg",
-      "name": "Joggers",
-      "rating": {
-        "stars": 4,
-        "count": 127
-      }
-    },
+    }
   ]
   ```
 

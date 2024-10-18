@@ -1,660 +1,721 @@
 [
   {
-    "id": "e43638ce-6aa0-4b85-b27f-e1d07eb678c6",
-    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/athletic-cotton-socks-6-pairs.jpg",
-    "name": "Black and Gray Athletic Cotton Socks - 6 Pairs",
+    "id": "1",
+    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/moisturizer.jpg",
+    "name": "Hydrating Facial Moisturizer",
+    "rating": {
+      "stars": 4.7,
+      "count": 120
+    },
+    "priceCents": 2000,
+    "category": "Beauty & Personal Care",
+    "subCategory": "Skincare",
+    "keywords": [
+      "moisturizer",
+      "hydration",
+      "skincare",
+      "beauty"
+    ]
+  },
+  {
+    "id": "2",
+    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/shampoo.jpg",
+    "name": "Anti-Dandruff Shampoo",
     "rating": {
       "stars": 4.5,
-      "count": 87
+      "count": 85
     },
-    "priceCents": 1090,
+    "priceCents": 1500,
+    "category": "Beauty & Personal Care",
+    "subCategory": "Hair Care",
     "keywords": [
-      "socks",
-      "sports",
-      "apparel"
+      "shampoo",
+      "hair care",
+      "anti-dandruff",
+      "cleanse"
     ]
   },
   {
-    "id": "15b6fc6f-327a-4ec4-896f-486349e85a3d",
-    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/intermediate-composite-basketball.jpg",
-    "name": "Intermediate Size Basketball",
+    "id": "3",
+    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/foundation.jpg",
+    "name": "Matte Liquid Foundation",
     "rating": {
-      "stars": 4,
-      "count": 127
-    },
-    "priceCents": 2095,
-    "keywords": [
-      "sports",
-      "basketballs"
-    ]
-  },
-  {
-    "id": "83d4ca15-0f35-48f5-b7a3-1ea210004f2e",
-    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/adults-plain-cotton-tshirt-2-pack-teal.jpg",
-    "name": "Adults Plain Cotton T-Shirt - 2 Pack",
-    "rating": {
-      "stars": 4.5,
-      "count": 56
-    },
-    "priceCents": 799,
-    "keywords": [
-      "tshirts",
-      "apparel",
-      "mens"
-    ],
-    "type": "clothing",
-    "sizeChartLink": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/clothing-size-chart.png"
-  },
-  {
-    "id": "54e0eccd-8f36-462b-b68a-8182611d9add",
-    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/black-2-slot-toaster.jpg",
-    "name": "2 Slot Toaster - Black",
-    "rating": {
-      "stars": 5,
-      "count": 2197
-    },
-    "priceCents": 1899,
-    "keywords": [
-      "toaster",
-      "kitchen",
-      "appliances"
-    ]
-  },
-  {
-    "id": "3ebe75dc-64d2-4137-8860-1f5a963e534b",
-    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/6-piece-white-dinner-plate-set.jpg",
-    "name": "6 Piece White Dinner Plate Set",
-    "rating": {
-      "stars": 4,
-      "count": 37
-    },
-    "priceCents": 2067,
-    "keywords": [
-      "plates",
-      "kitchen",
-      "dining"
-    ]
-  },
-  {
-    "id": "8c9c52b5-5a19-4bcb-a5d1-158a74287c53",
-    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/6-piece-non-stick-baking-set.webp",
-    "name": "6-Piece Nonstick, Carbon Steel Oven Bakeware Baking Set",
-    "rating": {
-      "stars": 4.5,
-      "count": 175
-    },
-    "priceCents": 3499,
-    "keywords": [
-      "kitchen",
-      "cookware"
-    ]
-  },
-  {
-    "id": "dd82ca78-a18b-4e2a-9250-31e67412f98d",
-    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/plain-hooded-fleece-sweatshirt-yellow.jpg",
-    "name": "Plain Hooded Fleece Sweatshirt",
-    "rating": {
-      "stars": 4.5,
-      "count": 317
-    },
-    "priceCents": 2400,
-    "keywords": [
-      "hoodies",
-      "sweaters",
-      "apparel"
-    ]
-  },
-  {
-    "id": "77919bbe-0e56-475b-adde-4f24dfed3a04",
-    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/luxury-tower-set-6-piece.jpg",
-    "name": "Luxury Towel Set - Graphite Gray",
-    "rating": {
-      "stars": 4.5,
-      "count": 144
-    },
-    "priceCents": 3599,
-    "keywords": [
-      "bathroom",
-      "washroom",
-      "restroom",
-      "towels",
-      "bath towels"
-    ]
-  },
-  {
-    "id": "3fdfe8d6-9a15-4979-b459-585b0d0545b9",
-    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/liquid-laundry-detergent-plain.jpg",
-    "name": "Liquid Laundry Detergent, 110 Loads, 82.5 Fl Oz",
-    "rating": {
-      "stars": 4.5,
-      "count": 305
-    },
-    "priceCents": 2899,
-    "keywords": [
-      "bathroom",
-      "cleaning"
-    ]
-  },
-  {
-    "id": "58b4fc92-e98c-42aa-8c55-b6b79996769a",
-    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/knit-athletic-sneakers-gray.jpg",
-    "name": "Waterproof Knit Athletic Sneakers - Gray",
-    "rating": {
-      "stars": 4,
-      "count": 89
-    },
-    "priceCents": 3390,
-    "keywords": [
-      "shoes",
-      "running shoes",
-      "footwear"
-    ]
-  },
-  {
-    "id": "5968897c-4d27-4872-89f6-5bcb052746d7",
-    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/women-chiffon-beachwear-coverup-black.jpg",
-    "name": "Women's Chiffon Beachwear Cover Up - Black",
-    "rating": {
-      "stars": 4.5,
-      "count": 235
-    },
-    "priceCents": 2070,
-    "keywords": [
-      "robe",
-      "swimsuit",
-      "swimming",
-      "bathing",
-      "apparel"
-    ],
-    "type": "clothing",
-    "sizeChartLink": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/clothing-size-chart.png"
-  },
-  {
-    "id": "aad29d11-ea98-41ee-9285-b916638cac4a",
-    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/round-sunglasses-black.jpg",
-    "name": "Round Sunglasses",
-    "rating": {
-      "stars": 4.5,
-      "count": 30
-    },
-    "priceCents": 1560,
-    "keywords": [
-      "accessories",
-      "shades"
-    ]
-  },
-  {
-    "id": "04701903-bc79-49c6-bc11-1af7e3651358",
-    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/women-beach-sandals.jpg",
-    "name": "Women's Two Strap Buckle Sandals - Tan",
-    "rating": {
-      "stars": 4.5,
-      "count": 562
-    },
-    "priceCents": 2499,
-    "keywords": [
-      "footwear",
-      "sandals",
-      "womens",
-      "beach",
-      "summer"
-    ]
-  },
-  {
-    "id": "901eb2ca-386d-432e-82f0-6fb1ee7bf969",
-    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/blackout-curtain-set-beige.webp",
-    "name": "Blackout Curtains Set 4-Pack - Beige",
-    "rating": {
-      "stars": 4.5,
-      "count": 232
-    },
-    "priceCents": 4599,
-    "keywords": [
-      "bedroom",
-      "curtains",
-      "home"
-    ]
-  },
-  {
-    "id": "82bb68d7-ebc9-476a-989c-c78a40ee5cd9",
-    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/men-slim-fit-summer-shorts-gray.jpg",
-    "name": "Men's Slim-Fit Summer Shorts",
-    "rating": {
-      "stars": 4,
-      "count": 160
-    },
-    "priceCents": 1699,
-    "keywords": [
-      "shorts",
-      "apparel",
-      "mens"
-    ]
-  },
-  {
-    "id": "c2a82c5e-aff4-435f-9975-517cfaba2ece",
-    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/electric-glass-and-steel-hot-water-kettle.webp",
-    "name": "Electric Glass and Steel Hot Tea Water Kettle - 1.7-Liter",
-    "rating": {
-      "stars": 5,
-      "count": 846
-    },
-    "priceCents": 3074,
-    "keywords": [
-      "water boiler",
-      "appliances",
-      "kitchen"
-    ]
-  },
-  {
-    "id": "6b07d4e7-f540-454e-8a1e-363f25dbae7d",
-    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/facial-tissue-2-ply-18-boxes.jpg",
-    "name": "Ultra Soft Tissue 2-Ply - 18 Box",
-    "rating": {
-      "stars": 4,
-      "count": 99
-    },
-    "priceCents": 2374,
-    "keywords": [
-      "kleenex",
-      "tissues",
-      "kitchen",
-      "tissues box",
-      "napkins"
-    ]
-  },
-  {
-    "id": "a82c6bac-3067-4e68-a5ba-d827ac0be010",
-    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/straw-sunhat.webp",
-    "name": "Straw Lifeguard Sun Hat",
-    "rating": {
-      "stars": 4,
-      "count": 215
+      "stars": 4.6,
+      "count": 98
     },
     "priceCents": 2200,
+    "category": "Beauty & Personal Care",
+    "subCategory": "Makeup",
     "keywords": [
-      "hats",
-      "straw hats",
-      "summer",
-      "apparel"
+      "foundation",
+      "makeup",
+      "beauty",
+      "matte"
     ]
   },
   {
-    "id": "e4f64a65-1377-42bc-89a5-e572d19252e2",
-    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/sky-flower-stud-earrings.webp",
-    "name": "Sterling Silver Sky Flower Stud Earrings",
+    "id": "4",
+    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/perfume.jpg",
+    "name": "Eau de Parfum - Floral Scent",
+    "rating": {
+      "stars": 4.8,
+      "count": 160
+    },
+    "priceCents": 3500,
+    "category": "Beauty & Personal Care",
+    "subCategory": "Fragrances",
+    "keywords": [
+      "perfume",
+      "fragrance",
+      "scent",
+      "floral"
+    ]
+  },
+  {
+    "id": "5",
+    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/shaving-kit.jpg",
+    "name": "Men's Shaving Kit",
+    "rating": {
+      "stars": 4.4,
+      "count": 70
+    },
+    "priceCents": 1800,
+    "category": "Beauty & Personal Care",
+    "subCategory": "Grooming",
+    "keywords": [
+      "shaving kit",
+      "grooming",
+      "men",
+      "razor"
+    ]
+  },
+  {
+    "id": "6",
+    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/body-wash.jpg",
+    "name": "Nourishing Body Wash",
+    "rating": {
+      "stars": 4.7,
+      "count": 140
+    },
+    "priceCents": 1300,
+    "category": "Beauty & Personal Care",
+    "subCategory": "Bath & Body",
+    "keywords": [
+      "body wash",
+      "bath",
+      "care",
+      "nourishing"
+    ]
+  },
+  {
+    "id": "7",
+    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/nail-polish.jpg",
+    "name": "Glossy Nail Polish",
     "rating": {
       "stars": 4.5,
-      "count": 52
+      "count": 65
     },
-    "priceCents": 1799,
+    "priceCents": 800,
+    "category": "Beauty & Personal Care",
+    "subCategory": "Nail Care",
     "keywords": [
-      "jewelry",
-      "accessories",
-      "womens"
+      "nail polish",
+      "nail care",
+      "beauty",
+      "glossy"
     ]
   },
   {
-    "id": "b0f17cc5-8b40-4ca5-9142-b61fe3d98c85",
-    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/women-stretch-popover-hoodie-black.jpg",
-    "name": "Women's Stretch Popover Hoodie",
+    "id": "8",
+    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/conditioner.jpg",
+    "name": "Moisturizing Conditioner",
     "rating": {
-      "stars": 4.5,
-      "count": 2465
+      "stars": 4.6,
+      "count": 110
     },
-    "priceCents": 1374,
+    "priceCents": 1700,
+    "category": "Beauty & Personal Care",
+    "subCategory": "Hair Care",
     "keywords": [
-      "hooded",
-      "hoodies",
-      "sweaters",
-      "womens",
-      "apparel"
-    ],
-    "type": "clothing",
-    "sizeChartLink": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/clothing-size-chart.png"
-  },
-  {
-    "id": "a93a101d-79ef-4cf3-a6cf-6dbe532a1b4a",
-    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/bathroom-rug.jpg",
-    "name": "Bathroom Bath Rug Mat 20 x 31 Inch - Grey",
-    "rating": {
-      "stars": 4.5,
-      "count": 119
-    },
-    "priceCents": 1250,
-    "keywords": [
-      "bathmat",
-      "bathroom",
-      "home"
+      "conditioner",
+      "hair care",
+      "moisturizing",
+      "smooth"
     ]
   },
   {
-    "id": "4f4fbcc2-4e72-45cc-935c-9e13d79cc57f",
-    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/women-knit-ballet-flat-black.jpg",
-    "name": "Women's Knit Ballet Flat",
+    "id": "9",
+    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/razor.jpg",
+    "name": "Triple Blade Razor",
     "rating": {
-      "stars": 4,
-      "count": 326
+      "stars": 4.3,
+      "count": 55
     },
-    "priceCents": 2640,
+    "priceCents": 1000,
+    "category": "Beauty & Personal Care",
+    "subCategory": "Men's Grooming Products",
     "keywords": [
-      "shoes",
-      "flats",
-      "womens",
-      "footwear"
+      "razor",
+      "grooming",
+      "men",
+      "shaving"
     ]
   },
   {
-    "id": "8b5a2ee1-6055-422a-a666-b34ba28b76d4",
-    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/men-golf-polo-t-shirt-blue.jpg",
-    "name": "Men's Regular-Fit Quick-Dry Golf Polo Shirt",
+    "id": "10",
+    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/vitamin-supplement.jpg",
+    "name": "Vitamin C Supplement",
     "rating": {
-      "stars": 4.5,
-      "count": 2556
+      "stars": 4.7,
+      "count": 200
     },
-    "priceCents": 1599,
+    "priceCents": 3000,
+    "category": "Beauty & Personal Care",
+    "subCategory": "Health & Wellness Products",
     "keywords": [
-      "tshirts",
-      "shirts",
-      "apparel",
-      "mens"
-    ],
-    "type": "clothing",
-    "sizeChartLink": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/clothing-size-chart.png"
-  },
-  {
-    "id": "b86ddc8b-3501-4b17-9889-a3bad6fb585f",
-    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/trash-can-with-foot-pedal-50-liter.jpg",
-    "name": "Trash Can with Foot Pedal - Brushed Stainless Steel",
-    "rating": {
-      "stars": 4.5,
-      "count": 2286
-    },
-    "priceCents": 8300,
-    "keywords": [
-      "garbage",
-      "bins",
-      "cans",
-      "kitchen"
+      "vitamin c",
+      "supplement",
+      "wellness",
+      "health"
     ]
   },
   {
-    "id": "19c6a64a-5463-4d45-9af8-e41140a4100c",
-    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/duvet-cover-set-blue-twin.jpg",
-    "name": "Duvet Cover Set with Zipper Closure",
+    "id": "11",
+    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/wireless-headphones.jpg",
+    "name": "Wireless Bluetooth Headphones",
     "rating": {
-      "stars": 4,
-      "count": 456
+      "stars": 4.7,
+      "count": 230
     },
-    "priceCents": 2399,
+    "priceCents": 7999,
+    "category": "Electronics & Gadgets",
+    "subCategory": "Audio",
     "keywords": [
-      "bedroom",
-      "bed sheets",
-      "sheets",
-      "covers",
-      "home"
+      "headphones",
+      "bluetooth",
+      "audio",
+      "electronics"
     ]
   },
   {
-    "id": "d2785924-743d-49b3-8f03-ec258e640503",
-    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/women-chunky-beanie-gray.webp",
-    "name": "Women's Chunky Cable Beanie - Gray",
+    "id": "12",
+    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/smartphone.jpg",
+    "name": "Smartphone - 128GB",
     "rating": {
-      "stars": 5,
-      "count": 83
+      "stars": 4.6,
+      "count": 320
     },
-    "priceCents": 1250,
+    "priceCents": 45000,
+    "category": "Electronics & Gadgets",
+    "subCategory": "Mobile Phones",
     "keywords": [
-      "hats",
-      "winter hats",
-      "beanies",
-      "tuques",
-      "apparel",
-      "womens"
+      "smartphone",
+      "mobile",
+      "gadgets"
     ]
   },
   {
-    "id": "ee1f7c56-f977-40a4-9642-12ba5072e2b0",
-    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/men-chino-pants-beige.jpg",
-    "name": "Men's Classic-fit Pleated Chino Pants",
+    "id": "13",
+    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/4k-tv.jpg",
+    "name": "55-Inch 4K Ultra HD TV",
     "rating": {
-      "stars": 4.5,
-      "count": 9017
+      "stars": 4.8,
+      "count": 190
     },
-    "priceCents": 2290,
+    "priceCents": 90000,
+    "category": "Electronics & Gadgets",
+    "subCategory": "Televisions",
     "keywords": [
-      "pants",
-      "apparel",
-      "mens"
+      "television",
+      "4K",
+      "electronics",
+      "gadgets"
     ]
   },
   {
-    "id": "1c079479-8586-494f-ab53-219325432536",
-    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/men-athletic-shoes-green.jpg",
-    "name": "Men's Athletic Sneaker",
+    "id": "14",
+    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/laptop.jpg",
+    "name": "Gaming Laptop - 16GB RAM, 512GB SSD",
     "rating": {
-      "stars": 4,
-      "count": 229
+      "stars": 4.9,
+      "count": 210
     },
-    "priceCents": 3890,
+    "priceCents": 120000,
+    "category": "Electronics & Gadgets",
+    "subCategory": "Computers",
     "keywords": [
-      "shoes",
-      "running shoes",
-      "footwear",
-      "mens"
+      "laptop",
+      "gaming",
+      "computers",
+      "electronics"
     ]
   },
   {
-    "id": "4df68c27-fd59-4a6a-bbd1-e754ddb6d53c",
-    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/men-navigator-sunglasses-brown.jpg",
-    "name": "Men's Navigator Sunglasses Pilot",
-    "rating": {
-      "stars": 3.5,
-      "count": 42
-    },
-    "priceCents": 1690,
-    "keywords": [
-      "sunglasses",
-      "glasses",
-      "accessories",
-      "shades"
-    ]
-  },
-  {
-    "id": "4e37dd03-3b23-4bc6-9ff8-44e112a92c64",
-    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/non-stick-cooking-set-15-pieces.webp",
-    "name": "Non-Stick Cookware Set, Pots, Pans and Utensils - 15 Pieces",
-    "rating": {
-      "stars": 4.5,
-      "count": 511
-    },
-    "priceCents": 6797,
-    "keywords": [
-      "cooking set",
-      "kitchen"
-    ]
-  },
-  {
-    "id": "a434b69f-1bc1-482d-9ce7-cd7f4a66ce8d",
-    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/vanity-mirror-silver.jpg",
-    "name": "Vanity Mirror with Heavy Base - Chrome",
+    "id": "15",
+    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/smartwatch.jpg",
+    "name": "Smartwatch - Fitness Tracker",
     "rating": {
       "stars": 4.5,
       "count": 130
     },
-    "priceCents": 1649,
+    "priceCents": 15000,
+    "category": "Electronics & Gadgets",
+    "subCategory": "Wearables",
     "keywords": [
-      "bathroom",
-      "washroom",
-      "mirrors",
-      "home"
+      "smartwatch",
+      "fitness",
+      "wearables",
+      "electronics"
     ]
   },
   {
-    "id": "a45cfa0a-66d6-4dc7-9475-e2b01595f7d7",
-    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/women-french-terry-fleece-jogger-camo.jpg",
-    "name": "Women's Fleece Jogger Sweatpant",
+    "id": "16",
+    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/tablet.jpg",
+    "name": "10.1-Inch Android Tablet",
+    "rating": {
+      "stars": 4.3,
+      "count": 95
+    },
+    "priceCents": 20000,
+    "category": "Electronics & Gadgets",
+    "subCategory": "Tablets",
+    "keywords": [
+      "tablet",
+      "android",
+      "gadgets",
+      "electronics"
+    ]
+  },
+  {
+    "id": "17",
+    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/bluetooth-speaker.jpg",
+    "name": "Portable Bluetooth Speaker",
+    "rating": {
+      "stars": 4.7,
+      "count": 180
+    },
+    "priceCents": 5000,
+    "category": "Electronics & Gadgets",
+    "subCategory": "Audio",
+    "keywords": [
+      "bluetooth",
+      "speaker",
+      "audio",
+      "gadgets"
+    ]
+  },
+  {
+    "id": "18",
+    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/dslr-camera.jpg",
+    "name": "DSLR Camera - 24MP",
+    "rating": {
+      "stars": 4.8,
+      "count": 115
+    },
+    "priceCents": 85000,
+    "category": "Electronics & Gadgets",
+    "subCategory": "Cameras",
+    "keywords": [
+      "camera",
+      "dslr",
+      "gadgets",
+      "electronics"
+    ]
+  },
+  {
+    "id": "19",
+    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/usb-drive.jpg",
+    "name": "USB Drive - 64GB",
+    "rating": {
+      "stars": 4.2,
+      "count": 75
+    },
+    "priceCents": 1200,
+    "category": "Electronics & Gadgets",
+    "subCategory": "Storage",
+    "keywords": [
+      "usb",
+      "storage",
+      "gadgets",
+      "electronics"
+    ]
+  },
+  {
+    "id": "20",
+    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/action-camera.jpg",
+    "name": "4K Action Camera",
+    "rating": {
+      "stars": 4.6,
+      "count": 90
+    },
+    "priceCents": 18000,
+    "category": "Electronics & Gadgets",
+    "subCategory": "Cameras",
+    "keywords": [
+      "action camera",
+      "4K",
+      "gadgets",
+      "electronics"
+    ]
+  },
+  {
+    "id": "21",
+    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/denim-jacket.jpg",
+    "name": "Men's Denim Jacket",
     "rating": {
       "stars": 4.5,
-      "count": 248
+      "count": 150
     },
-    "priceCents": 2400,
+    "priceCents": 3500,
+    "category": "Fashion & Apparel",
+    "subCategory": "Men's Clothing",
     "keywords": [
-      "pants",
-      "sweatpants",
-      "jogging",
-      "apparel",
-      "womens"
+      "denim jacket",
+      "men's fashion",
+      "clothing",
+      "outerwear"
     ]
   },
   {
-    "id": "d339adf3-e004-4c20-a120-40e8874c66cb",
-    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/double-elongated-twist-french-wire-earrings.webp",
-    "name": "Double Oval Twist French Wire Earrings - Gold",
+    "id": "22",
+    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/maxi-dress.jpg",
+    "name": "Women's Floral Maxi Dress",
     "rating": {
-      "stars": 4.5,
-      "count": 117
+      "stars": 4.8,
+      "count": 95
     },
-    "priceCents": 2400,
+    "priceCents": 4200,
+    "category": "Fashion & Apparel",
+    "subCategory": "Women's Clothing",
     "keywords": [
-      "accessories",
-      "womens"
+      "floral dress",
+      "women's fashion",
+      "clothing",
+      "dress"
     ]
   },
   {
-    "id": "d37a651a-d501-483b-aae6-a9659b0757a0",
-    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/round-airtight-food-storage-containers.jpg",
-    "name": "Round Airtight Food Storage Containers - 5 Piece",
+    "id": "23",
+    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/sneakers.jpg",
+    "name": "Unisex Casual Sneakers",
     "rating": {
-      "stars": 4,
-      "count": 126
+      "stars": 4.7,
+      "count": 210
     },
-    "priceCents": 2899,
+    "priceCents": 5500,
+    "category": "Fashion & Apparel",
+    "subCategory": "Footwear",
     "keywords": [
-      "boxes",
-      "food containers",
-      "kitchen"
-    ]
-  },
-  {
-    "id": "0d7f9afa-2efe-4fd9-b0fd-ba5663e0a524",
-    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/coffeemaker-with-glass-carafe-black.jpg",
-    "name": "Coffeemaker with Glass Carafe and Reusable Filter - 25 Oz, Black",
-    "rating": {
-      "stars": 4.5,
-      "count": 1211
-    },
-    "priceCents": 2250,
-    "keywords": [
-      "coffeemakers",
-      "kitchen",
-      "appliances"
-    ]
-  },
-  {
-    "id": "02e3a47e-dd68-467e-9f71-8bf6f723fdae",
-    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/blackout-curtains-black.jpg",
-    "name": "Blackout Curtains Set 42 x 84-Inch - Black, 2 Panels",
-    "rating": {
-      "stars": 4.5,
-      "count": 363
-    },
-    "priceCents": 3099,
-    "keywords": [
-      "bedroom",
-      "home"
-    ]
-  },
-  {
-    "id": "8a53b080-6d40-4a65-ab26-b24ecf700bce",
-    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/cotton-bath-towels-teal.webp",
-    "name": "100% Cotton Bath Towels - 2 Pack, Light Teal",
-    "rating": {
-      "stars": 4.5,
-      "count": 93
-    },
-    "priceCents": 2110,
-    "keywords": [
-      "bathroom",
-      "home",
-      "towels"
-    ]
-  },
-  {
-    "id": "10ed8504-57db-433c-b0a3-fc71a35c88a1",
-    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/knit-athletic-sneakers-pink.webp",
-    "name": "Waterproof Knit Athletic Sneakers - Pink",
-    "rating": {
-      "stars": 4,
-      "count": 89
-    },
-    "priceCents": 3390,
-    "keywords": [
-      "shoes",
-      "running shoes",
+      "sneakers",
       "footwear",
-      "womens"
+      "shoes",
+      "casual"
     ]
   },
   {
-    "id": "77a845b1-16ed-4eac-bdf9-5b591882113d",
-    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/countertop-blender-64-oz.jpg",
-    "name": "Countertop Blender - 64oz, 1400 Watts",
+    "id": "24",
+    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/leather-bag.jpg",
+    "name": "Leather Tote Bag",
     "rating": {
-      "stars": 4,
-      "count": 3
+      "stars": 4.6,
+      "count": 130
     },
-    "priceCents": 10747,
+    "priceCents": 6000,
+    "category": "Fashion & Apparel",
+    "subCategory": "Accessories",
     "keywords": [
-      "food blenders",
+      "leather bag",
+      "tote",
+      "accessories",
+      "fashion"
+    ]
+  },
+  {
+    "id": "25",
+    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/sunglasses.jpg",
+    "name": "Polarized Sunglasses",
+    "rating": {
+      "stars": 4.4,
+      "count": 90
+    },
+    "priceCents": 2500,
+    "category": "Fashion & Apparel",
+    "subCategory": "Accessories",
+    "keywords": [
+      "sunglasses",
+      "polarized",
+      "accessories",
+      "fashion"
+    ]
+  },
+  {
+    "id": "26",
+    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/formal-shirt.jpg",
+    "name": "Men's Formal Shirt",
+    "rating": {
+      "stars": 4.3,
+      "count": 85
+    },
+    "priceCents": 3100,
+    "category": "Fashion & Apparel",
+    "subCategory": "Men's Clothing",
+    "keywords": [
+      "formal shirt",
+      "men's fashion",
+      "clothing",
+      "shirt"
+    ]
+  },
+  {
+    "id": "27",
+    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/heels.jpg",
+    "name": "Women's High Heels",
+    "rating": {
+      "stars": 4.6,
+      "count": 105
+    },
+    "priceCents": 4500,
+    "category": "Fashion & Apparel",
+    "subCategory": "Footwear",
+    "keywords": [
+      "heels",
+      "women's footwear",
+      "fashion",
+      "shoes"
+    ]
+  },
+  {
+    "id": "28",
+    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/t-shirt.jpg",
+    "name": "Graphic Print T-Shirt",
+    "rating": {
+      "stars": 4.5,
+      "count": 200
+    },
+    "priceCents": 1800,
+    "category": "Fashion & Apparel",
+    "subCategory": "Men's Clothing",
+    "keywords": [
+      "t-shirt",
+      "graphic print",
+      "men's fashion",
+      "clothing"
+    ]
+  },
+  {
+    "id": "29",
+    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/handbag.jpg",
+    "name": "Women's Designer Handbag",
+    "rating": {
+      "stars": 4.9,
+      "count": 150
+    },
+    "priceCents": 7500,
+    "category": "Fashion & Apparel",
+    "subCategory": "Accessories",
+    "keywords": [
+      "handbag",
+      "designer",
+      "fashion",
+      "accessories"
+    ]
+  },
+  {
+    "id": "30",
+    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/slippers.jpg",
+    "name": "Comfortable Flip-Flops",
+    "rating": {
+      "stars": 4.2,
+      "count": 70
+    },
+    "priceCents": 1200,
+    "category": "Fashion & Apparel",
+    "subCategory": "Footwear",
+    "keywords": [
+      "flip-flops",
+      "slippers",
+      "footwear",
+      "casual"
+    ]
+  },
+  {
+    "id": "31",
+    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/sofa.jpg",
+    "name": "Modern Leather Sofa",
+    "rating": {
+      "stars": 4.8,
+      "count": 220
+    },
+    "priceCents": 120000,
+    "category": "Home & Kitchen",
+    "subCategory": "Furniture",
+    "keywords": [
+      "sofa",
+      "furniture",
+      "living room",
+      "home decor"
+    ]
+  },
+  {
+    "id": "32",
+    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/refrigerator.jpg",
+    "name": "Stainless Steel Refrigerator",
+    "rating": {
+      "stars": 4.6,
+      "count": 150
+    },
+    "priceCents": 95000,
+    "category": "Home & Kitchen",
+    "subCategory": "Kitchen Appliances",
+    "keywords": [
+      "refrigerator",
+      "appliance",
       "kitchen",
-      "appliances"
+      "stainless steel"
     ]
   },
   {
-    "id": "36c64692-677f-4f58-b5ec-0dc2cf109e27",
-    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/floral-mixing-bowl-set.jpg",
-    "name": "10-Piece Mixing Bowl Set with Lids - Floral",
+    "id": "33",
+    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/vacuum-cleaner.jpg",
+    "name": "Cordless Vacuum Cleaner",
     "rating": {
-      "stars": 5,
-      "count": 679
+      "stars": 4.4,
+      "count": 180
     },
-    "priceCents": 3899,
+    "priceCents": 18000,
+    "category": "Home & Kitchen",
+    "subCategory": "Home Appliances",
     "keywords": [
-      "mixing bowls",
-      "baking",
+      "vacuum cleaner",
+      "cordless",
+      "cleaning",
+      "home"
+    ]
+  },
+  {
+    "id": "34",
+    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/cookware.jpg",
+    "name": "Non-Stick Cookware Set",
+    "rating": {
+      "stars": 4.7,
+      "count": 95
+    },
+    "priceCents": 25000,
+    "category": "Home & Kitchen",
+    "subCategory": "Cookware & Bakeware",
+    "keywords": [
       "cookware",
-      "kitchen"
-    ]
-  },
-  {
-    "id": "aaa65ef3-8d6f-4eb3-bc9b-a6ea49047d8f",
-    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/kitchen-paper-towels-30-pack.jpg",
-    "name": "2-Ply Kitchen Paper Towels - 30 Pack",
-    "rating": {
-      "stars": 4.5,
-      "count": 1045
-    },
-    "priceCents": 5799,
-    "keywords": [
+      "non-stick",
       "kitchen",
-      "kitchen towels",
-      "tissues"
+      "bakeware"
     ]
   },
   {
-    "id": "bc2847e9-5323-403f-b7cf-57fde044a955",
-    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/men-cozy-fleece-zip-up-hoodie-red.jpg",
-    "name": "Men's Full-Zip Hooded Fleece Sweatshirt",
+    "id": "35",
+    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/dinnerware.jpg",
+    "name": "Porcelain Dinnerware Set",
+    "rating": {
+      "stars": 4.9,
+      "count": 70
+    },
+    "priceCents": 16000,
+    "category": "Home & Kitchen",
+    "subCategory": "Dinnerware & Serveware",
+    "keywords": [
+      "dinnerware",
+      "porcelain",
+      "kitchen",
+      "tableware"
+    ]
+  },
+  {
+    "id": "36",
+    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/mattress.jpg",
+    "name": "Memory Foam Mattress",
+    "rating": {
+      "stars": 4.8,
+      "count": 140
+    },
+    "priceCents": 75000,
+    "category": "Home & Kitchen",
+    "subCategory": "Bedding",
+    "keywords": [
+      "mattress",
+      "memory foam",
+      "bedding",
+      "sleep"
+    ]
+  },
+  {
+    "id": "37",
+    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/table-lamp.jpg",
+    "name": "Contemporary Table Lamp",
     "rating": {
       "stars": 4.5,
-      "count": 3157
+      "count": 85
     },
-    "priceCents": 2400,
+    "priceCents": 5000,
+    "category": "Home & Kitchen",
+    "subCategory": "Lighting",
     "keywords": [
-      "sweaters",
-      "hoodies",
-      "apparel",
-      "mens"
+      "lamp",
+      "lighting",
+      "home decor",
+      "table lamp"
+    ]
+  },
+  {
+    "id": "38",
+    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/rug.jpg",
+    "name": "Hand-Woven Area Rug",
+    "rating": {
+      "stars": 4.6,
+      "count": 110
+    },
+    "priceCents": 20000,
+    "category": "Home & Kitchen",
+    "subCategory": "Home Decor",
+    "keywords": [
+      "rug",
+      "home decor",
+      "woven",
+      "area rug"
+    ]
+  },
+  {
+    "id": "39",
+    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/storage-boxes.jpg",
+    "name": "Plastic Storage Boxes - Set of 4",
+    "rating": {
+      "stars": 4.3,
+      "count": 55
+    },
+    "priceCents": 8000,
+    "category": "Home & Kitchen",
+    "subCategory": "Storage & Organization",
+    "keywords": [
+      "storage",
+      "organization",
+      "home",
+      "plastic boxes"
+    ]
+  },
+  {
+    "id": "40",
+    "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/cleaning-supplies.jpg",
+    "name": "Eco-Friendly Cleaning Supplies Kit",
+    "rating": {
+      "stars": 4.8,
+      "count": 120
+    },
+    "priceCents": 10000,
+    "category": "Home & Kitchen",
+    "subCategory": "Cleaning Supplies",
+    "keywords": [
+      "cleaning supplies",
+      "eco-friendly",
+      "home",
+      "cleaning kit"
     ]
   }
 ]

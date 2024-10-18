@@ -1,7 +1,7 @@
 [
     {
       "id": "e43638ce-6aa0-4b85-b27f-e1d07eb678c6",
-      "image": "/img/campaign-men.jpg",
+      "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/clothe_brands/img/campaign-men.jpg",
       "name": "Men outfit",
       "rating": {
         "stars": 4.5,
@@ -16,7 +16,7 @@
     },
     {
       "id": "15b6fc6f-327a-4ec4-896f-486349e85a3d",
-      "image": "/img/Cargo_Joggers_(1).jpg",
+      "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/clothe_brands/img/Cargo_Joggers_(1).jpg",
       "name": "Joggers",
       "rating": {
         "stars": 4,
@@ -30,7 +30,7 @@
     },
     {
       "id": "83d4ca15-0f35-48f5-b7a3-1ea210004f2e",
-      "image": "/img/Double_Breasted_Jacket_(1).jpg",
+      "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/clothe_brands/img/Double_Breasted_Jacket_(1).jpg",
       "name": "Double Breasted Jacket",
       "rating": {
         "stars": 4.5,
@@ -47,7 +47,7 @@
     },
     {
       "id": "54e0eccd-8f36-462b-b68a-8182611d9add",
-      "image": "/img/Loafers.jpg",
+      "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/clothe_brands/img/Loafers.jpg",
       "name": "Loafers",
       "rating": {
         "stars": 5,
@@ -62,7 +62,7 @@
     },
     {
       "id": "3ebe75dc-64d2-4137-8860-1f5a963e534b",
-      "image": "/img/Loafers_(1).jpg",
+      "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/clothe_brands/img/Loafers_(1).jpg",
       "name": "Large Loafers",
       "rating": {
         "stars": 4,
@@ -77,7 +77,7 @@
     },
     {
       "id": "8c9c52b5-5a19-4bcb-a5d1-158a74287c53",
-      "image": "/img/Oversized_Shirt_Jacket_(2).jpg",
+      "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/clothe_brands/img/Oversized_Shirt_Jacket_(2).jpg",
       "name": "Oversized Jacket",
       "rating": {
         "stars": 4.5,
@@ -91,7 +91,7 @@
     },
     {
       "id": "dd82ca78-a18b-4e2a-9250-31e67412f98d",
-      "image": "/img/Skinny_Fit_(1).jpg",
+      "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/clothe_brands/img/Skinny_Fit_(1).jpg",
       "name": "Skinny Fit",
       "rating": {
         "stars": 4.5,
@@ -106,7 +106,7 @@
     },
     {
       "id": "77919bbe-0e56-475b-adde-4f24dfed3a04",
-      "image": "/img/Skinny_Fit_Blazer.jpg",
+      "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/clothe_brands/img/Skinny_Fit_Blazer.jpg",
       "name": "Skinny Fit Blazer",
       "rating": {
         "stars": 4.5,
@@ -123,7 +123,7 @@
     },
     {
       "id": "77919bbe-0e56-475b-adde-4f24dfed3a04",
-      "image": "/img/Skinny_Fit_Suit_Pants_(1).jpg",
+      "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/clothe_brands/img/Skinny_Fit_Suit_Pants_(1).jpg",
       "name": "Skinny Fit Pants",
       "rating": {
         "stars": 4.5,
@@ -140,7 +140,7 @@
     },
     {
       "id": "77919bbe-0e56-475b-adde-4f24dfed3a04",
-      "image": "/img/Super_Slim-fit_Pants.jpg",
+      "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/clothe_brands/img/Super_Slim-fit_Pants.jpg",
       "name": "Skinny Slim Fit Pants",
       "rating": {
         "stars": 4.5,
@@ -157,7 +157,7 @@
     },
     {
       "id": "77919bbe-0e56-475b-adde-4f24dfed3a04",
-      "image": "/img/Super_Slim-fit_Pants_(1).jpg",
+      "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/clothe_brands/img/Super_Slim-fit_Pants_(1).jpg",
       "name": "Skinny Slim Fit Pants2",
       "rating": {
         "stars": 4.5,

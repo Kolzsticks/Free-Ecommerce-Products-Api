@@ -10,7 +10,7 @@ Welcome to the **Free E-commerce Products API**! This API provides a collection 
   `https://github.dev/Kolzsticks/Free-Ecommerce-Products-Api/main/products.json`
 
 - **Description**:  
-  This endpoint provides a comprehensive list of all products. You can access a wide range of categories, and for **version 1.1.0**, we have **10 products per category**. You can filter the products based on category using JavaScript array methods.
+  This endpoint provides a comprehensive list of all products. You can access a wide range of categories, and for **version 1.1.0**, we have **10 products per category**. Each product now includes a detailed description to enhance the information available for each item. You can filter the products based on category using JavaScript array methods.
 
 - **Available Categories**:
   1. **Electronics & Gadgets**
@@ -45,7 +45,7 @@ fetch('https://github.dev/Kolzsticks/Free-Ecommerce-Products-Api/main/products.j
 ```json
 {
   "id": "50",
-  "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/product/knee-pads.jpg",
+  "image": "https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/images/products/knee-pads.jpg",
   "name": "Adjustable Knee Pads",
   "rating": {
     "stars": 4.3,
@@ -59,7 +59,8 @@ fetch('https://github.dev/Kolzsticks/Free-Ecommerce-Products-Api/main/products.j
     "sports",
     "gear",
     "fitness"
-  ]
+  ],
+  "description": "Adjustable knee pads that provide support and comfort during workouts and sports activities, ensuring maximum performance and protection."
 }
 ```
 
@@ -73,8 +74,8 @@ You can filter the results using JavaScript `filter()` as shown above, targeting
 
 ## Notes
 
-- **Version 1.1.0**:  
-  For this version, each category contains 10 products for now. More products and categories will be added in future updates.
+- **Version 1.1.1**:  
+  For this version, each category contains 10 products, and every product now includes a detailed description. More products and categories will be added in future updates.
 
 - **Pricing**:  
   The pricing for products is provided in `priceCents` (USD cents).
@@ -85,4 +86,3 @@ You can filter the results using JavaScript `filter()` as shown above, targeting
 ## Enjoy!
 
 Feel free to use this API for testing, prototyping, or personal projects. It will continue to be updated with more categories, products, and features over time. Enjoy and share your feedback!
-

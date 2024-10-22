@@ -15,7 +15,8 @@
       "hydration",
       "skincare",
       "beauty"
-    ]
+    ],
+    "description": "This Hydrating Facial Moisturizer is expertly formulated to deeply nourish and hydrate your skin, providing lasting moisture and a smooth, radiant complexion. Ideal for daily use."
   },
   {
     "id": "2",
@@ -33,7 +34,8 @@
       "hair care",
       "anti-dandruff",
       "cleanse"
-    ]
+    ],
+    "description": "Our Anti-Dandruff Shampoo effectively combats flakes and itchiness, promoting a healthy scalp. Infused with soothing ingredients, it cleanses your hair without stripping natural oils."
   },
   {
     "id": "3",
@@ -51,7 +53,8 @@
       "makeup",
       "beauty",
       "matte"
-    ]
+    ],
+    "description": "This Matte Liquid Foundation offers a flawless finish with long-lasting wear. Lightweight and breathable, it blends seamlessly into the skin, providing even coverage and a natural look."
   },
   {
     "id": "4",
@@ -69,7 +72,8 @@
       "fragrance",
       "scent",
       "floral"
-    ]
+    ],
+    "description": "Experience the essence of blooming florals with our Eau de Parfum. This captivating scent envelops you in elegance, making it perfect for any occasion, leaving a lasting impression."
   },
   {
     "id": "5",
@@ -87,7 +91,8 @@
       "grooming",
       "men",
       "razor"
-    ]
+    ],
+    "description": "This Men's Shaving Kit includes everything needed for a close, comfortable shave. Featuring a premium razor and soothing gel, it ensures a smooth experience with every use."
   },
   {
     "id": "6",
@@ -105,7 +110,8 @@
       "bath",
       "care",
       "nourishing"
-    ]
+    ],
+    "description": "Our Nourishing Body Wash gently cleanses while replenishing moisture, leaving your skin feeling soft and revitalized. Infused with natural ingredients for a refreshing bathing experience."
   },
   {
     "id": "7",
@@ -123,7 +129,8 @@
       "nail care",
       "beauty",
       "glossy"
-    ]
+    ],
+    "description": "Achieve stunning nails with our Glossy Nail Polish. This vibrant formula provides high shine and long-lasting wear, perfect for expressing your personal style with every application."
   },
   {
     "id": "8",
@@ -141,7 +148,8 @@
       "hair care",
       "moisturizing",
       "smooth"
-    ]
+    ],
+    "description": "Our Moisturizing Conditioner deeply hydrates and detangles hair, leaving it soft, shiny, and manageable. Perfect for all hair types, it helps restore natural moisture balance."
   },
   {
     "id": "9",
@@ -159,7 +167,8 @@
       "grooming",
       "men",
       "shaving"
-    ]
+    ],
+    "description": "The Triple Blade Razor delivers an exceptionally close shave with minimal irritation. Its ergonomic design provides comfort and control, making it a must-have for every grooming routine."
   },
   {
     "id": "10",
@@ -177,7 +186,8 @@
       "supplement",
       "wellness",
       "health"
-    ]
+    ],
+    "description": "Boost your health with our Vitamin C Supplement. Designed to support immune function and overall wellness, these easy-to-take tablets provide essential nutrients for your daily needs."
   },
   {
     "id": "11",
@@ -195,7 +205,8 @@
       "bluetooth",
       "audio",
       "electronics"
-    ]
+    ],
+    "description": "Experience superior sound quality with these wireless Bluetooth headphones, designed for comfort and portability for everyday use."
   },
   {
     "id": "12",
@@ -212,7 +223,8 @@
       "smartphone",
       "mobile",
       "gadgets"
-    ]
+    ],
+    "description": "Stay connected with this high-performance smartphone featuring 128GB storage, perfect for apps, photos, and multimedia."
   },
   {
     "id": "13",
@@ -230,7 +242,8 @@
       "4K",
       "electronics",
       "gadgets"
-    ]
+    ],
+    "description": "Enjoy breathtaking visuals with this 55-inch 4K Ultra HD TV, delivering stunning detail and vibrant colors for your favorite shows."
   },
   {
     "id": "14",
@@ -248,7 +261,8 @@
       "gaming",
       "computers",
       "electronics"
-    ]
+    ],
+    "description": "Unleash your gaming potential with this powerful gaming laptop featuring 16GB RAM and 512GB SSD for speed and performance."
   },
   {
     "id": "15",
@@ -266,7 +280,8 @@
       "fitness",
       "wearables",
       "electronics"
-    ]
+    ],
+    "description": "Monitor your health and stay connected with this feature-rich smartwatch, perfect for tracking fitness and receiving notifications."
   },
   {
     "id": "16",
@@ -284,7 +299,8 @@
       "android",
       "gadgets",
       "electronics"
-    ]
+    ],
+    "description": "Enjoy your favorite apps and media on this sleek 10.1-inch Android tablet, offering portability and a vibrant display for on-the-go."
   },
   {
     "id": "17",
@@ -302,7 +318,8 @@
       "speaker",
       "audio",
       "gadgets"
-    ]
+    ],
+    "description": "Take your music anywhere with this portable Bluetooth speaker, delivering powerful sound in a compact design, perfect for outdoor use."
   },
   {
     "id": "18",
@@ -320,7 +337,8 @@
       "dslr",
       "gadgets",
       "electronics"
-    ]
+    ],
+    "description": "Capture stunning photos and videos with this 24MP DSLR camera, offering professional-quality imaging and advanced features for creatives."
   },
   {
     "id": "19",
@@ -338,7 +356,8 @@
       "storage",
       "gadgets",
       "electronics"
-    ]
+    ],
+    "description": "Store and transfer your files easily with this 64GB USB drive, offering ample space and portability for your data needs."
   },
   {
     "id": "20",
@@ -356,7 +375,8 @@
       "4K",
       "gadgets",
       "electronics"
-    ]
+    ],
+    "description": "Record your adventures in stunning detail with this 4K action camera, built to withstand tough conditions and capture high-quality footage."
   },
   {
     "id": "21",
@@ -374,7 +394,8 @@
       "men's fashion",
       "clothing",
       "outerwear"
-    ]
+    ],
+    "description": "This stylish Men's Denim Jacket is perfect for any casual occasion. Crafted from high-quality denim, it features a classic fit, button closure, and timeless design that complements various outfits."
   },
   {
     "id": "22",
@@ -392,7 +413,8 @@
       "women's fashion",
       "clothing",
       "dress"
-    ]
+    ],
+    "description": "Embrace elegance with this Women's Floral Maxi Dress, designed with a flattering silhouette and vibrant floral patterns. Perfect for sunny days and special occasions, it's a must-have addition to your wardrobe."
   },
   {
     "id": "23",
@@ -410,7 +432,8 @@
       "footwear",
       "shoes",
       "casual"
-    ]
+    ],
+    "description": "These Unisex Casual Sneakers blend comfort and style effortlessly. With a lightweight design and cushioned sole, they're perfect for everyday wear, making them a versatile choice for any outfit."
   },
   {
     "id": "24",
@@ -428,7 +451,8 @@
       "tote",
       "accessories",
       "fashion"
-    ]
+    ],
+    "description": "Elevate your style with this chic Leather Tote Bag, featuring a spacious interior and elegant design. Crafted from premium leather, it's perfect for carrying your essentials while looking effortlessly stylish."
   },
   {
     "id": "25",
@@ -446,7 +470,8 @@
       "polarized",
       "accessories",
       "fashion"
-    ]
+    ],
+    "description": "Protect your eyes in style with these Polarized Sunglasses. Designed to reduce glare and enhance visual clarity, they offer both comfort and sophistication for all your outdoor adventures."
   },
   {
     "id": "26",
@@ -464,7 +489,8 @@
       "men's fashion",
       "clothing",
       "shirt"
-    ]
+    ],
+    "description": "This Men's Formal Shirt combines elegance with comfort. Tailored to perfection, it features a classic collar and a crisp finish, making it the ideal choice for business meetings or formal occasions."
   },
   {
     "id": "27",
@@ -482,7 +508,8 @@
       "women's footwear",
       "fashion",
       "shoes"
-    ]
+    ],
+    "description": "Step into sophistication with these Women's High Heels, featuring a sleek design and comfortable fit. Perfect for parties, weddings, or a night out, they will elevate any outfit with a touch of glamour."
   },
   {
     "id": "28",
@@ -500,7 +527,8 @@
       "graphic print",
       "men's fashion",
       "clothing"
-    ]
+    ],
+    "description": "Express yourself with this Graphic Print T-Shirt, featuring vibrant colors and unique designs. Made from soft cotton, it offers a relaxed fit, making it perfect for casual outings or lounging at home."
   },
   {
     "id": "29",
@@ -518,7 +546,8 @@
       "designer",
       "fashion",
       "accessories"
-    ]
+    ],
+    "description": "Make a statement with this Women's Designer Handbag, crafted from luxurious materials and featuring exquisite detailing. It's spacious enough for daily essentials while adding elegance to your ensemble."
   },
   {
     "id": "30",
@@ -536,7 +565,8 @@
       "slippers",
       "footwear",
       "casual"
-    ]
+    ],
+    "description": "Enjoy ultimate comfort with these Comfortable Flip-Flops. Designed for casual wear, they feature soft straps and cushioned soles, making them perfect for the beach, pool, or everyday relaxation."
   },
   {
     "id": "31",
@@ -554,7 +584,8 @@
       "furniture",
       "living room",
       "home decor"
-    ]
+    ],
+    "description": "A stylish modern leather sofa that enhances the elegance of your living room while providing utmost comfort for relaxation and entertaining guests."
   },
   {
     "id": "32",
@@ -572,7 +603,8 @@
       "appliance",
       "kitchen",
       "stainless steel"
-    ]
+    ],
+    "description": "This sleek stainless steel refrigerator features ample storage space, energy efficiency, and modern technology, making it perfect for keeping your food fresh."
   },
   {
     "id": "33",
@@ -590,7 +622,8 @@
       "cordless",
       "cleaning",
       "home"
-    ]
+    ],
+    "description": "Enjoy effortless cleaning with this cordless vacuum cleaner, designed for convenience and efficiency, easily reaching corners and tight spaces without any cords."
   },
   {
     "id": "34",
@@ -608,7 +641,8 @@
       "non-stick",
       "kitchen",
       "bakeware"
-    ]
+    ],
+    "description": "This non-stick cookware set is perfect for easy cooking and cleaning, ensuring your meals come out delicious without sticking, making meal prep a breeze."
   },
   {
     "id": "35",
@@ -626,7 +660,8 @@
       "porcelain",
       "kitchen",
       "tableware"
-    ]
+    ],
+    "description": "Elevate your dining experience with this exquisite porcelain dinnerware set, perfect for both everyday meals and special occasions, combining elegance and functionality."
   },
   {
     "id": "36",
@@ -644,7 +679,8 @@
       "memory foam",
       "bedding",
       "sleep"
-    ]
+    ],
+    "description": "Experience superior comfort with our memory foam mattress, designed to contour to your body and provide excellent support for a restful night’s sleep."
   },
   {
     "id": "37",
@@ -662,7 +698,8 @@
       "lighting",
       "home decor",
       "table lamp"
-    ]
+    ],
+    "description": "Brighten your space with this contemporary table lamp, combining modern design and functionality, perfect for reading or creating a cozy atmosphere in any room."
   },
   {
     "id": "38",
@@ -680,7 +717,8 @@
       "home decor",
       "woven",
       "area rug"
-    ]
+    ],
+    "description": "This hand-woven area rug adds warmth and style to your home decor, featuring intricate designs that enhance any living space while providing comfort underfoot."
   },
   {
     "id": "39",
@@ -698,7 +736,8 @@
       "organization",
       "home",
       "plastic boxes"
-    ]
+    ],
+    "description": "Keep your home organized with this set of 4 plastic storage boxes, perfect for decluttering any space and storing items securely while maintaining easy accessibility."
   },
   {
     "id": "40",
@@ -716,7 +755,8 @@
       "eco-friendly",
       "home",
       "cleaning kit"
-    ]
+    ],
+    "description": "This eco-friendly cleaning supplies kit features sustainable products that effectively clean your home while being safe for the environment and your family."
   },
   {
     "id": "41",
@@ -734,7 +774,8 @@
       "fitness",
       "exercise",
       "home gym"
-    ]
+    ],
+    "description": "This Foldable Electric Treadmill offers a convenient way to maintain fitness at home. With various speed settings and a compact design, it's perfect for beginners and seasoned athletes."
   },
   {
     "id": "42",
@@ -752,7 +793,8 @@
       "weights",
       "fitness",
       "strength training"
-    ]
+    ],
+    "description": "The Adjustable Dumbbell Set allows for a customizable weight training experience. With a total weight of 20kg, it's perfect for strength training and versatile enough for various workouts."
   },
   {
     "id": "43",
@@ -770,7 +812,8 @@
       "nutrition",
       "supplement",
       "sports"
-    ]
+    ],
+    "description": "This Whey Protein Powder provides an excellent source of protein for muscle recovery and growth. The 2kg package is ideal for athletes and fitness enthusiasts aiming for optimal nutrition."
   },
   {
     "id": "44",
@@ -788,7 +831,8 @@
       "monitor",
       "health",
       "medical"
-    ]
+    ],
+    "description": "Stay on top of your health with this Digital Blood Pressure Monitor. Easy to use and highly accurate, it helps you track your blood pressure at home with clear digital readings."
   },
   {
     "id": "45",
@@ -806,7 +850,8 @@
       "kit",
       "medical",
       "emergency"
-    ]
+    ],
+    "description": "This Compact First Aid Kit is essential for home, travel, or emergency situations. Packed with necessary supplies, it ensures you're prepared for minor injuries and emergencies."
   },
   {
     "id": "46",
@@ -824,7 +869,8 @@
       "personal health",
       "hygiene",
       "sanitizer"
-    ]
+    ],
+    "description": "Keep your hands clean and germ-free with this Alcohol-Based Hand Sanitizer. The 500ml bottle is perfect for personal use at home or on the go, providing effective sanitization."
   },
   {
     "id": "47",
@@ -842,7 +888,8 @@
       "workout",
       "sports",
       "fitness"
-    ]
+    ],
+    "description": "Enhance your workout experience with these comfortable Workout Gloves. Designed to provide grip and protection, they are perfect for lifting weights or performing rigorous exercises."
   },
   {
     "id": "48",
@@ -860,7 +907,8 @@
       "digital",
       "health",
       "infrared"
-    ]
+    ],
+    "description": "This Infrared Digital Thermometer allows for quick and accurate temperature readings. Perfect for home health monitoring, it provides fast results without physical contact."
   },
   {
     "id": "49",
@@ -878,7 +926,8 @@
       "fitness",
       "yoga",
       "exercise"
-    ]
+    ],
+    "description": "The Non-Slip Yoga Mat is designed for stability and comfort during yoga sessions. Its durable material ensures a safe practice, making it ideal for all skill levels and styles."
   },
   {
     "id": "50",
@@ -896,6 +945,7 @@
       "sports",
       "gear",
       "fitness"
-    ]
+    ],
+    "description": "These Adjustable Knee Pads provide comfort and support during workouts. Perfect for protecting your knees during intense activities, they are essential for athletes and fitness lovers."
   }
 ]

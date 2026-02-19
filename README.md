@@ -22,7 +22,7 @@ Welcome to the **Free E-commerce Products API**! This API provides a collection 
 ### Example: Fetching All Products Using JavaScript
 
 ```javascript
-fetch('https://github.dev/Kolzsticks/Free-Ecommerce-Products-Api/main/products.json')
+fetch('https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/products.json')
   .then(response => response.json())
   .then(data => console.log(data))
   .catch(error => console.error('Error fetching products:', error));
@@ -31,7 +31,7 @@ fetch('https://github.dev/Kolzsticks/Free-Ecommerce-Products-Api/main/products.j
 ### Example: Filtering by Category (Fashion & Apparel)
 
 ```javascript
-fetch('https://github.dev/Kolzsticks/Free-Ecommerce-Products-Api/main/products.json')
+fetch('https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/products.json')
   .then(response => response.json())
   .then(data => {
     const fashionProducts = data.filter(product => product.category === "Fashion & Apparel");

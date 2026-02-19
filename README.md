@@ -7,7 +7,7 @@ Welcome to the **Free E-commerce Products API**! This API provides a collection 
 ### 1. All Products
 
 - **URL**:  
-  `https://github.dev/Kolzsticks/Free-Ecommerce-Products-Api/main/products.json`
+  `[https://github.dev/Kolzsticks/Free-Ecommerce-Products-Api/main/products.json](https://kolzsticks.github.io/Free-Ecommerce-Products-Api/main/products.json)`
 
 - **Description**:  
   This endpoint provides a comprehensive list of all products. You can access a wide range of categories, and for **version 1.1.0**, we have **10 products per category**. Each product now includes a detailed description to enhance the information available for each item. You can filter the products based on category using JavaScript array methods.
